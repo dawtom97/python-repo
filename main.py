@@ -26,3 +26,6 @@ y = "nowy fragment kodu"
 
 # Powrót do teraźniejszości projektu
 # git checkout -
+
+# Wyświetlenie gałęzi
+# git branch
